@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emajohn-clone/static/css/main.073c9b0a.css",
+    "main.js": "/emajohn-clone/static/js/main.667b49ee.js",
+    "static/js/787.bb8751a3.chunk.js": "/emajohn-clone/static/js/787.bb8751a3.chunk.js",
+    "static/media/logo.svg": "/emajohn-clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/emajohn-clone/index.html",
+    "main.073c9b0a.css.map": "/emajohn-clone/static/css/main.073c9b0a.css.map",
+    "main.667b49ee.js.map": "/emajohn-clone/static/js/main.667b49ee.js.map",
+    "787.bb8751a3.chunk.js.map": "/emajohn-clone/static/js/787.bb8751a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.667b49ee.js"
+  ]
+}
